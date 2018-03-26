@@ -1,5 +1,5 @@
 [Settings]
   ID = "3fdc8ca1-549a-4666-a960-7dbc8b7ba945"
 [[redirects]]
-  from = "/static/*"
+  from = "/static/"
   to = "https://vue.slsadmin.org/static/"
