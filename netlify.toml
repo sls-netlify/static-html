@@ -4,4 +4,3 @@
   from = "/static"
   to = "https://vue.slsadmin.org/static"
   force = true
-  status = 200
