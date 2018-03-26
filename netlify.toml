@@ -1,12 +1,10 @@
 [Settings]
   ID = "3fdc8ca1-549a-4666-a960-7dbc8b7ba945"
 [[redirects]]
-  from = "/slsadmin/"
-  to = "https://vue.slsadmin.org/"
+  from = "/slsadmin"
+  to = "https://vue.slsadmin.org"
   status = 200
-  force = true
 [[redirects]]
-  from = "/static/"
-  to = "https://vue.slsadmin.org/static/"
+  from = "/static"
+  to = "https://vue.slsadmin.org/static"
   status = 200
-  force = true
