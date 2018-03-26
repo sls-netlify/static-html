@@ -6,3 +6,9 @@
   status = 200
   force = true
   headers = {X-From = "Netlify"}
+[[redirects]]
+  from = "/static/*"
+  to = "https://vue.slsadmin.org/static/"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
