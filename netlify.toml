@@ -3,4 +3,5 @@
 [[redirects]]
   from = "/"
   to = "https://vue.slsadmin.org/"
+  force = true
   status = 200
