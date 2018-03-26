@@ -7,3 +7,4 @@
 [[redirects]]
   from = "/static"
   to = "https://vue.slsadmin.org/static"
+  status = 404
